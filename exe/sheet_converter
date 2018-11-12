@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "sheet_converter"
+
+SheetConverter::CLI.start(ARGV)

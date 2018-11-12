@@ -10,5 +10,6 @@ require "sheet_converter"
 # require "pry"
 # Pry.start
 
+@path = '/home/u/code/zidcn/gaokao_data/分数线/学校/锦宏/2013-2017'
 require "irb"
 IRB.start(__FILE__)
