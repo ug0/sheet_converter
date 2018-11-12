@@ -1,4 +1,5 @@
 # SheetConverter
+[![Gem Version](https://badge.fury.io/rb/sheet_converter.svg)](https://badge.fury.io/rb/sheet_converter)
 
 Convert sheet files.
 
