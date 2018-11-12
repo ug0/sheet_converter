@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sheet_converter (0.2.0)
+    sheet_converter (0.2.2)
       axlsx (>= 3.0.0.pre)
       roo (~> 2.7.0)
       spreadsheet_architect
