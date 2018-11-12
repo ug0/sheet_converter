@@ -21,6 +21,8 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "thor", "~> 0.20"
   spec.add_dependency "roo", "~> 2.7.0"
+  spec.add_dependency 'axlsx', '>= 3.0.0.pre'
+  spec.add_dependency "spreadsheet_architect"
 
   spec.add_development_dependency "bundler", "~> 1.16"
   spec.add_development_dependency "rake", "~> 10.0"
