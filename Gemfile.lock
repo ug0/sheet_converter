@@ -34,7 +34,7 @@ GEM
     minitest (5.11.3)
     nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
-    rake (10.5.0)
+    rake (12.3.2)
     rodf (1.0.0)
       activesupport (>= 3.0)
       builder (>= 3.0)
@@ -59,7 +59,7 @@ DEPENDENCIES
   bundler (~> 1.16)
   byebug
   minitest (~> 5.0)
-  rake (~> 10.0)
+  rake (~> 12.3)
   sheet_converter!
 
 BUNDLED WITH
