@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "thor", "~> 0.20"
-  spec.add_dependency "roo", "~> 2.7.0"
+  spec.add_dependency "roo", ">= 2.7", "< 2.9"
   spec.add_dependency 'axlsx', '>= 3.0.0.pre'
   spec.add_dependency "spreadsheet_architect"
 
