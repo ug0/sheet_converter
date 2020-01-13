@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
 
-  spec.add_dependency "thor", "~> 0.20"
+  spec.add_dependency "thor", ">= 0.20", "< 2.0"
   spec.add_dependency "roo", ">= 2.7", "< 2.9"
   spec.add_dependency 'axlsx', '>= 3.0.0.pre'
   spec.add_dependency "spreadsheet_architect"
