@@ -25,7 +25,7 @@ GEM
       activesupport (>= 3.1)
       axlsx (>= 2.0, < 4)
     builder (3.2.4)
-    byebug (11.0.1)
+    byebug (11.1.0)
     concurrent-ruby (1.1.5)
     dry-inflector (0.2.0)
     htmlentities (4.3.4)
