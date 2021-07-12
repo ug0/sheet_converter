@@ -40,7 +40,7 @@ GEM
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     racc (1.5.2)
-    rake (13.0.5)
+    rake (13.0.6)
     rodf (1.1.0)
       builder (>= 3.0)
       dry-inflector (~> 0.1)
