@@ -53,7 +53,7 @@ GEM
       axlsx (>= 2, < 4)
       axlsx_styler (>= 0.1.7, < 2)
       rodf (>= 1.0.0, < 2)
-    thor (1.1.0)
+    thor (1.2.1)
     thread_safe (0.3.6)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
